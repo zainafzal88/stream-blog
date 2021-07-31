@@ -54,12 +54,12 @@ pygmentsCodefencesGuessSyntax = true
   #bitbucket = ""
   #twitter = ""
   #reddit = ""
-  linkedin = "username"
+  linkedin = "roarcoders"
   #xing = ""
   #stackoverflow = ""
   #snapchat = ""
   #instagram = ""
-  youtube = "user/username" # or channel/channelname
+  youtube = "channel/UCTLncNjJvgkmRPaKhdwe2iQ" # or channel/channelname
   #soundcloud = ""
   #spotify = ""
   #bandcamp = ""
@@ -74,10 +74,10 @@ pygmentsCodefencesGuessSyntax = true
   #weibo = ""
   #slack = ""
 
-[[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
+#[[menu.main]]
+#    name = "Blog"
+#    url = ""
+#   weight = 1
 
 #[[menu.main]]
 #    name = "About"
@@ -101,11 +101,11 @@ pygmentsCodefencesGuessSyntax = true
 #   url = "post/2017-03-05-math-sample"
 #   weight = 2
 
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
+#[[menu.main]]
+#    parent = "samples"
+#    name = "Code Sample"
+#   url = "post/2016-03-08-code-sample"
+#   weight = 3
 
 #[[menu.main]]
  

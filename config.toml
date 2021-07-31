@@ -40,3 +40,7 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+
+  [module]
+  [module.hugoVersion]
+    extended = false

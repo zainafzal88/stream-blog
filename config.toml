@@ -14,10 +14,10 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-# homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Building - Breaking - Fixing Code Everyday"
+# homeTitle = "" # Set a different text for the header on the home page
+# subtitle = ""
   mainSections = ["post","posts"]
-  # logo = "img/avatar-icon.png" # Expecting square dimensions
+  # logo = "resources/_gen/assets/images/banner_roarcoders.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -32,9 +32,9 @@ pygmentsCodefencesGuessSyntax = true
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
+[[Params.bigimg]]
+ src = "img/banner_roarcoders.png"
+ desc = ""
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"

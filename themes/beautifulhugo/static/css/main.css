@@ -299,14 +299,14 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #F5F5F5;
-  border-top: 1px #EAEAEA solid;
+  background: #18183d;
+  border-top: 1px #18183d solid;
   margin-top: auto;
   font-size: 14px;
 }
 
 footer a {
-  color: #404040;
+  color: #ffffff;
 }
 
 footer .list-inline {
@@ -815,4 +815,8 @@ h4.see-also {
 }
  ul.share li:hover .fab {
   transform: scale(1.4)
+}
+
+.fa-inverse {
+  color: #000000 !important;
 }

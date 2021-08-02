@@ -1,6 +1,6 @@
 ---
-title: First Post!
-date: 2021-07-31
+title: Setup Hugo Blog using AWS Amplify with GitHub
+date: 2021-08-03
 ---
 
-Really excited to be posting our first post of the blog!
+This blog focuses on the setup process of building your own Hugo blog using AWS Amplify and Github as codesource.

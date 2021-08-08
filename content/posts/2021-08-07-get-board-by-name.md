@@ -1,6 +1,6 @@
 ---
 title: Get a specific board from DynamoDB using Express Application
-date: 2021-08-08
+date: 2021-08-07
 ---
 
 Today, we worked on next functionality which was to get a specific board from DynamoDB by board name.

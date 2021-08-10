@@ -1,6 +1,6 @@
 ---
-title: Resolving the CORS error
-date: 2021-08-08
+title: Resolving the CORS error 😌
+date: 2021-08-10
 ---
 
 As promised yesterday we had high hopes for today. Yesterday we were really close to resolving the `CORS` error. <br>

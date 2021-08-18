@@ -1,6 +1,6 @@
 ---
 title: GitHub Merge Issue Fixed
-date: 2021-08-16
+date: 2021-08-17
 ---
 
 **Issue** 

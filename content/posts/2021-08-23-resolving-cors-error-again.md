@@ -1,6 +1,6 @@
 ---
-title: "Resolving CORS Error Again"
-date: 2021-08-21
+title: "Resolving CORS Error Again 2"
+date: 2021-08-23
 ---
 
 Today, we spent the entire session trying to resolve CORS error. 

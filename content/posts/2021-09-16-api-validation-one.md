@@ -1,10 +1,12 @@
 ---
-title: "Resolving CORS Error Again 6"
-date: 2021-08-27
+title: "Applying Validation to Express Application"
+date: 2021-09-16
 ---
 
-Today rewatched the the AWS Video on CORS issue again and made sure everything was on point.
+Today we worked on applying validation on all getting, posting, updating and deleting board requests. 
 
-Deleted and created the stack again but it still didn't work. Thankfully, that means we are one step close to making it work.
+We made the we didn't make any redundant code and tried our best to apply best practices while doing putting in validation.
 
-We will try again tomorrow. Hope for the best, plan for the worst.
+When we started to test, we noticed, some validations were working as intended and some weren't.
+
+Tomorrow we will debug the ones that weren't working and fix them.

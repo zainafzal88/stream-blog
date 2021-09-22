@@ -1,6 +1,6 @@
 ---
 title: "Implemented Validation For Posting Notes"
-date: 2021-09-17
+date: 2021-09-20
 ---
 
 Today we debugged the methods of the board validation that weren't working and got them working.

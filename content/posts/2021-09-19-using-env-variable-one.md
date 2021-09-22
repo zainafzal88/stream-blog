@@ -1,6 +1,6 @@
 ---
-title: "Implemented Validation For Posting Notes"
-date: 2021-09-17
+title: "Fixed and Refactored Code for Board Validation"
+date: 2021-09-19
 ---
 
 Today we debugged the methods of the board validation that weren't working and got them working.

@@ -1,5 +1,5 @@
 ---
-title: "Implemented Validation For Posting Notes"
+title: "Coding Session with Special Guest - Torey Little"
 date: 2021-09-21
 ---
 

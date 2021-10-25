@@ -1,5 +1,5 @@
 ---
-title: "Displayed Board Name"
+title: "Displayed Board Name With Hardcoded BoardId"
 date: 2021-10-24
 ---
 

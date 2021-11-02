@@ -1,5 +1,5 @@
 ---
-title: "Insert Note In Database From Frontend"
+title: "Insert Note In Database From Frontend Pt.2"
 date: 2021-10-31
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sunday Funday Merge Day"
+title: "Final Touches to Unique Board Names"
 date: 2021-12-20
 ---
 

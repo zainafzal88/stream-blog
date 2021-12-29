@@ -1,6 +1,6 @@
 ---
 title: "Get Board from BoardName Pt.5"
-date: 2021-12-27
+date: 2021-12-28
 ---
 
 Today, we manage to bring all the properties in the board's object. 

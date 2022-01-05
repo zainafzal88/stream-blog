@@ -1,5 +1,5 @@
 ---
-title: "Integrating AWS WebSockets"
+title: "Integrating AWS WebSockets part 1"
 date: 2021-12-30
 ---
 

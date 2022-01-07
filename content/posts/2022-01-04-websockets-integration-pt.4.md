@@ -1,5 +1,5 @@
 ---
-title: 'Integrating AWS WebSockets Part 3'
+title: 'Integrating AWS WebSockets Part 4'
 date: 2022-01-04
 ---
 

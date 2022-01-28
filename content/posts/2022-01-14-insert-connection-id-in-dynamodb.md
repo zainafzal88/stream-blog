@@ -1,5 +1,5 @@
 ---
-title: 'Insert User's ConnectionID in DynamoDB - AWS Websocket'
+title: 'Insert User ConnectionID in DynamoDB - AWS Websocket'
 date: 2022-01-14
 ---
 

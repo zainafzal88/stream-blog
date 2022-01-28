@@ -1,5 +1,5 @@
 ---
-title: 'Delete User's ConnectionID in DynamoDB - AWS Websocket Pt.2'
+title: 'Delete Users ConnectionID in DynamoDB - AWS Websocket Pt.2'
 date: 2022-01-19
 ---
 
